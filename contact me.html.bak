@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+
+<html>
+<!--title-->
+<head>
+<h1 align="center" size=80px>Contact Me</h1>
+
+<title>S.S. Contact Me</title>
+
+</head>
+<!--end of title-->
+<hr>
+
+<!--background-->
+<body background="image/green.jpg" width=100%>
+<!--end of background-->
+
+<!--table for info-->
+<table cellspacing="10px"></table>
+<tr>
+<td><img src="boy.jpg" height="150px" margin="circle" alt="person profile picture"></img></td>
+<td><h3>Sushant Shrestha</h3><br><h3>Student EHS</h3></td>
+</tr>
+</table>
+<!--end of table for info-->
+
+<!--contact info-->
+<h1>My Contact Details</h1>
+<p><em>999 Main St</p>
+<p>Boston MA 02149</p>
+<p>857-400-6227</p>
+<p>148584@epsstudents.org</em></p>
+<!--end of contact info-->
+
+<!--form-->
+<form action="index.html" method="post">
+<label>Your Name</label>
+<input type="text">
+<label>Your Email:</label>
+<input type="Email"><br><br>
+<label>Your Message:</label>
+<textarea rows=10 cols="20"></textarea><br>
+<input type="Submit"
+</form>
+<!--end of form-->
+<hr>
+
+<!--button table-->
+<nav>
+<table align="center" border=1>
+<tr>
+
+<td><a href="index.html"><h1 color=white style="margin-right:10px">Home</h1></a></td>
+<td><a href="Page 2.html"><h1 color=white style="margin-right:10px">Hobbies</h1></a></td>
+<td><a href="page 3.html"><h1 color=white style="margin-right:10px">Resume</h1></a></a></td>
+<td><a href="contact me.html"><h1 color=white style="margin-right:10px">Contanct Me</h1></a></a></td>
+
+</tr>
+</table>
+</nav>
+<!--end of button table-->
+</body>
+
+</html>
